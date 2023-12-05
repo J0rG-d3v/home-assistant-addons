@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Home Assistant add-on repository by J0rG-d3v
+url: 'https://github.com/j0rg-d3v/home-assistant-addons'
+maintainer: Jorge Carrasco <admin@echame-1-cable.es>
